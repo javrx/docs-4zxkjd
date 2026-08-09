@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-78s7tb.biggamingwin.online/sitemap.xml
